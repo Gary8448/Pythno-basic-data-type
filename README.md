@@ -1,5 +1,6 @@
 # Pythno-basic-data-type
 
+目錄 ： 
 1.  type() 函數
 2. 數值資料型態
 3. 布林值資料型態
